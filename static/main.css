@@ -1,0 +1,11 @@
+.container {
+  margin: 100px;
+  justify-content: center;
+ 
+}
+.container h1 {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(50, 166, 174);
+}
